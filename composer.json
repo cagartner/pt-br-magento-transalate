@@ -1,0 +1,9 @@
+{
+    "name": "trezo/pt-br-magento-transalate",
+    "type": "magento-translate",
+    "description": "Magento pt-BR translation",
+    "require":{
+        "magento-hackathon/magento-composer-installer":"*"
+    }
+}
+
